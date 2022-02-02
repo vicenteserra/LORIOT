@@ -8,7 +8,7 @@ assets:
     name: "logo"
 data:
   description: "Deploys a TTN LoRaWAN gateway with LORIOT. It runs on a Raspberry Pi or Fin with a SX1301 based SPI concentrator."
-  defaultDeviceType: "raspberrypi3-64"
+  defaultDeviceType: "raspberrypi3"
   supportedDeviceTypes:
     - "raspberry-pi"
     - "raspberry-pi2"
