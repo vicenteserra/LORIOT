@@ -1,4 +1,4 @@
-# LORIOT and balenaCloud
+# LORIOT and balenaCloud (FOR eu3.loriot.io)
 
 Deploy a LoRaWAN gateway on your Raspberry Pi with [LORIOT](https://www.loriot.io) and manage it via [balenaCloud](https://www.balena.io). 
 
@@ -19,7 +19,7 @@ In order to get started you you will need to purchase some hardware, download so
 
 Once you have completed all of the above pre-requisites and received all your hardware shipments - you are ready to deploy your application with balenaCloud. With the Deploy with balena button you can do that with one click:
 
-[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/shawaj/LORIOT/)
+[![balena deploy button](https://www.balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/vicenteserra/LORIOT/)
 
 ### Add device on balenaCloud
 
